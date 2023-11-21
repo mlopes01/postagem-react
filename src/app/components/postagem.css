@@ -1,0 +1,29 @@
+.container-postagem {
+  padding: 10px;
+  border: 1px solid black;
+  display: inline-block;
+}
+
+.postagem-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.header-info {
+  margin-left: 5px;
+  display: flex;
+  flex-direction: column;
+}
+
+.container-img {
+  width: 300px;
+}
+
+.avatar-container {
+  width: 40px;
+}
+
+.postagem-footer i {
+  font-size: 20px;
+}
